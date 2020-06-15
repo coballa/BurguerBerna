@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/emoji-search/static/css/main.db4dbf03.chunk.css",
-    "main.js": "/emoji-search/static/js/main.4bd867d8.chunk.js",
-    "main.js.map": "/emoji-search/static/js/main.4bd867d8.chunk.js.map",
-    "runtime-main.js": "/emoji-search/static/js/runtime-main.d9a9db43.js",
-    "runtime-main.js.map": "/emoji-search/static/js/runtime-main.d9a9db43.js.map",
-    "static/css/2.2d5861c9.chunk.css": "/emoji-search/static/css/2.2d5861c9.chunk.css",
-    "static/js/2.1c1ab16a.chunk.js": "/emoji-search/static/js/2.1c1ab16a.chunk.js",
-    "static/js/2.1c1ab16a.chunk.js.map": "/emoji-search/static/js/2.1c1ab16a.chunk.js.map",
-    "index.html": "/emoji-search/index.html",
-    "precache-manifest.da4a8af7b456c7fb2c8cc70309a8cd34.js": "/emoji-search/precache-manifest.da4a8af7b456c7fb2c8cc70309a8cd34.js",
-    "service-worker.js": "/emoji-search/service-worker.js",
-    "static/css/2.2d5861c9.chunk.css.map": "/emoji-search/static/css/2.2d5861c9.chunk.css.map",
-    "static/css/main.db4dbf03.chunk.css.map": "/emoji-search/static/css/main.db4dbf03.chunk.css.map",
-    "static/js/2.1c1ab16a.chunk.js.LICENSE.txt": "/emoji-search/static/js/2.1c1ab16a.chunk.js.LICENSE.txt",
-    "static/media/logo_berna.png": "/emoji-search/static/media/logo_berna.7c5b7695.png"
+    "main.css": "./static/css/main.db4dbf03.chunk.css",
+    "main.js": "./static/js/main.015d2fb7.chunk.js",
+    "main.js.map": "./static/js/main.015d2fb7.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a5ba834b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a5ba834b.js.map",
+    "static/css/2.2d5861c9.chunk.css": "./static/css/2.2d5861c9.chunk.css",
+    "static/js/2.8800f3dc.chunk.js": "./static/js/2.8800f3dc.chunk.js",
+    "static/js/2.8800f3dc.chunk.js.map": "./static/js/2.8800f3dc.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.80e6eca260e43c446ea800f5b11b5cf2.js": "./precache-manifest.80e6eca260e43c446ea800f5b11b5cf2.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.2d5861c9.chunk.css.map": "./static/css/2.2d5861c9.chunk.css.map",
+    "static/css/main.db4dbf03.chunk.css.map": "./static/css/main.db4dbf03.chunk.css.map",
+    "static/js/2.8800f3dc.chunk.js.LICENSE.txt": "./static/js/2.8800f3dc.chunk.js.LICENSE.txt",
+    "static/media/logo_berna.png": "./static/media/logo_berna.7c5b7695.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9a9db43.js",
+    "static/js/runtime-main.a5ba834b.js",
     "static/css/2.2d5861c9.chunk.css",
-    "static/js/2.1c1ab16a.chunk.js",
+    "static/js/2.8800f3dc.chunk.js",
     "static/css/main.db4dbf03.chunk.css",
-    "static/js/main.4bd867d8.chunk.js"
+    "static/js/main.015d2fb7.chunk.js"
   ]
 }
